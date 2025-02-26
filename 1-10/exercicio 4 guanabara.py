@@ -1,0 +1,6 @@
+a = input('digite algo ')
+print ('tipo primitivo',type (a)) 
+print ('espaço' ,a.isspace ()) 
+print ('tudo numero' , a.isnumeric()) 
+print ('letrinhas', a.isalpha()) 
+print ( 'letra e numero?' , a.isalnum())
